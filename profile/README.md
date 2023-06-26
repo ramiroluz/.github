@@ -9,3 +9,18 @@
 ## Acesso de escrita aos repositórios
 
 Caso queira colaborar com código, documentação, design em um dos produtos que temos nessa organização, por favor, crie um [Ticket](https://github.com/plonegovbr/plonegovbr/issues/new/choose).
+
+## Cerrado Sprint 2023
+
+### Canal da organização:
+https://discord.com/channels/786421998426521600/1122870732880355470
+
+### Canal de voz:
+
+### Repositório:
+https://github.com/plonegovbr/plonegovbr
+https://github.com/plonegovbr/plonegovbr.portal_edu
+
+
+### Site:
+https://plone.org.br/novidades/eventos/2023/cerrado-sprint-2023
